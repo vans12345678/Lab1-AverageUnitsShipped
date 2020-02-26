@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\bin\Debug\Lab1_UnitsShipped.exe.config
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\bin\Debug\Lab1_UnitsShipped.exe
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\bin\Debug\Lab1_UnitsShipped.pdb
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\bin\Debug\Lab1_UnitsShipped.xml
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.Resources.resources
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.vbproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.vbproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.exe
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.xml
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.pdb
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.frmAverageUnitsShipped.resources
+C:\Users\Andre\Desktop\Visual Studio Projects\Lab1_UnitsShipped\Lab1_UnitsShipped\obj\Debug\Lab1_UnitsShipped.vbprojAssemblyReference.cache

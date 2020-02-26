@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab1_UnitsShipped
+</name>
+</assembly>
+<members>
+<member name="T:Lab1_UnitsShipped.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab1_UnitsShipped.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab1_UnitsShipped.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab1_UnitsShipped.frmAverageUnitsShipped.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Exits the form once the exit button is clicked
+ </summary>
+</member>
+<member name="M:Lab1_UnitsShipped.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ Receives user input, displays on the display label, then adds input to total units.
+ Once the user has entered units for 7 days, average units is calculated and displayed.
+ </summary>
+</member>
+<member name="M:Lab1_UnitsShipped.frmAverageUnitsShipped.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Clears clears the units input, units entries and units average. It also sets the days
+ back to 0, average to 0 and units total to 0. The enter button is re-enabled. 
+ </summary>
+</member>
+</members>
+</doc>
